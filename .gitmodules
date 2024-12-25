@@ -1,0 +1,3 @@
+[submodule "Dayone/lib/forge-std"]
+	path = Dayone/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
